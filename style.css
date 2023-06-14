@@ -1,0 +1,107 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background: gray;
+}
+
+header{
+    text-align: center;
+    padding: 30px;
+    background: orange;
+
+}
+
+#main{
+    width: 1000px;
+    margin: 10px auto;
+    background: black;
+    display: flex;
+}
+
+.link{
+    padding: 20px;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+a:hover{
+    color: 10px;
+    background: url(download\ \(1\).jpg);
+    color: white;
+    background-size: 90px 60px ;
+}
+
+#foto{
+    margin: 10px;
+    width: 400px;
+    background-color: orange;   
+}
+
+h2{
+    background-color: white;
+    margin: 10px;
+}
+
+img{
+    padding: 10px;
+    width: 380px;
+}
+
+.texto{
+    height: fit-content;
+    width: 570px;
+    position: relative;   
+    margin: auto 10px;  
+    background-color:orange;
+    
+}
+
+h3{
+    font-size: 36px;
+    text-align: center;
+    background-color: white;
+    margin: 10px;
+}
+
+ol{
+    background: white;
+    margin: auto 10px 10px 10px;
+    font-size: 30px;
+}
+
+li{
+    position: relative;
+    left: 40px;
+}
+
+footer{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#biografia{
+    margin: 10px auto;
+    width: 720px;
+    background-color: orange;
+}
+
+p{
+    background: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+#contatos{
+    margin: 10px auto;
+    width: 600px;
+    background: orange;
+    
+}
